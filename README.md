@@ -1,4 +1,4 @@
-# eshop
+# TestAppsOfOstadTeacher
 
 A new Flutter project.
 
